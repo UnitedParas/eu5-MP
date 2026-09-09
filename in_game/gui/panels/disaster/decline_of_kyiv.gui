@@ -1,0 +1,206 @@
+﻿disaster_panel = {
+
+	##################################### TOP HEADER #####################################
+
+	##################################### MAIN IMAGE #####################################
+
+	##################################### TAB NAME #####################################
+
+	blockoverride "disaster_secondary_tab" {
+		margin_top = 10
+		spacing = 5
+		disaster_card_expandable = {
+			blockoverride "header_button_onclick" {
+				onclick = "[LateralView.Vars.Toggle( 'requirements_toggled' )]"
+			}
+			blockoverride "header_text" {
+				text = "END_REQUIREMENTS"
+			}
+			blockoverride "header_icon" {
+				texture = "gfx/interface/icons/disasters/end_requirements_green.dds"
+			}
+			blockoverride "bottom_content" {
+				TooltipRequirementsList = {
+					textcontext = "[DisasterView.GetDisaster.GetType.GetEndConditions]"
+				}
+			}
+			blockoverride "bottom_content_onclick" {
+				visible = "[LateralView.Vars.Exists( 'requirements_toggled' )]"
+			}
+			blockoverride "icon_replace_visible_yes" {
+				visible = "[LateralView.Vars.Exists( 'requirements_toggled' )]"
+			}
+			blockoverride "icon_replace_visible_not" {
+				visible = "[Not(LateralView.Vars.Exists( 'requirements_toggled' ))]"
+			}
+		}
+	}
+
+	##################################### SUBHEADER #####################################
+
+	blockoverride "disaster_main_content_subheader" {}
+
+	icon = {
+		parentanchor = top|hcenter
+		position = { 0 90 }
+		texture = "gfx/interface/component_tiles/navy_banners.dds"
+		texture_density = 2
+		size = { 40 40 }
+
+		tooltipwidget = {
+			ContextualTooltipType = {
+				blockoverride "title_text" {
+					text = "DISASTERS_MODIFIERS_TT"
+				}
+				blockoverride "title_icon" {
+					icon = {
+						using = tooltip_title_icon_size
+						texture = "gfx/interface/icons/disasters/decline_of_kyiv.dds"								
+					}
+				}
+				blockoverride "tooltip_content" {
+					TooltipRowList = {
+						blockoverride "block_title" {
+							text = "TURMOIL_IN_BRANDENBURG_DISASTERS_MODIFIERS_TT_LIST"
+						}
+						textcontext = "[DisasterView.GetDisaster.GetType.GetModifier]"
+					}									
+				}
+			}
+		}
+		
+		hbox = {
+			margin = { 5 0 }
+			text_single = {
+				text = "[DisasterView.GetDisaster.GetType.GetModifiersSize]"
+			}
+			icon = {
+				size = { 25 25 }
+				texture = "gfx/interface/icons/modifier_types/_default.dds"
+			}
+		}
+	}
+	##################################### MAIN CONTENT #####################################
+
+	blockoverride "main_content" {
+		vbox = {
+			
+			widget = {
+    			size = { 500 30 }
+
+    			progressbar = {
+        			size = { 450 16 }
+
+        			parentanchor = center
+        			widgetanchor = center
+
+        			min = 0
+       			 max = 100
+       			 value = "[FixedPointToFloat(GetCountry('KIE').MakeScope.GetVariable('kie_lithuanian_influence_var').GetValue)]"
+
+        			using = progress_bar_blue_grey_alt
+
+        			block "progress_setup" {}
+    			}
+				tooltipwidget = {
+						ContextualTooltipType = {
+							blockoverride "title_text" {
+								text = "kie_lithuanian_influence_var"
+							}
+							blockoverride "title_icon" {
+								icon = {
+								using = tooltip_title_icon_size
+									texture = "gfx/interface/icons/subject_types/fiefdom.dds"								
+								}
+							}
+							blockoverride "tooltip_content" {
+								TooltipTextBlock = {
+										blockoverride "text" {
+											text = "decline_of_kyiv_lithuanian_influence_tt"
+										}
+									}			
+							}
+						}
+					}
+			}
+
+			widget = {
+    			size = { 500 30 }
+
+    			progressbar = {
+        			size = { 450 16 }
+
+        			parentanchor = center
+        			widgetanchor = center
+
+        			min = 0
+       			 max = 100
+       			 value = "[FixedPointToFloat(GetCountry('KIE').MakeScope.GetVariable('kie_mongol_influence_var').GetValue)]"
+
+        			using = progress_bar_blue_grey_alt
+
+        			block "progress_setup" {}
+    			}
+				tooltipwidget = {
+						ContextualTooltipType = {
+							blockoverride "title_text" {
+								text = "kie_mongol_influence_var"
+							}
+							blockoverride "title_icon" {
+								icon = {
+								using = tooltip_title_icon_size
+									texture = "gfx/interface/icons/government_power/horde_unity.dds"								
+								}
+							}
+							blockoverride "tooltip_content" {
+								TooltipTextBlock = {
+										blockoverride "text" {
+											text = "decline_of_kyiv_mongol_influence_tt"
+										}
+									}			
+							}
+						}
+					}
+			}
+			
+			widget = {
+    			size = { 500 30 }
+
+    			progressbar = {
+        			size = { 450 16 }
+
+        			parentanchor = center
+        			widgetanchor = center
+
+        			min = 0
+       			 max = 100
+       			 value = "[FixedPointToFloat(GetCountry('KIE').MakeScope.GetVariable('kie_rurikovich_influence_var').GetValue)]"
+
+        			using = progress_bar_blue_grey_alt
+
+        			block "progress_setup" {}
+    			}
+				tooltipwidget = {
+						ContextualTooltipType = {
+							blockoverride "title_text" {
+								text = "kie_rurikovich_influence_var"
+							}
+							blockoverride "title_icon" {
+								icon = {
+								using = tooltip_title_icon_size
+									texture = "gfx/interface/icons/international_organizations/special_statuses/tatar_tax_collector.dds"								
+								}
+							}
+							blockoverride "tooltip_content" {
+								TooltipTextBlock = {
+										blockoverride "text" {
+											text = "decline_of_kyiv_rurikovich_influence_tt"
+										}
+									}			
+							}
+						}
+					}
+			}
+		}
+	}
+}

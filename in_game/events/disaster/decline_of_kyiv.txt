@@ -1,0 +1,47 @@
+﻿namespace = decline_of_kyiv
+
+decline_of_kyiv.1 = {
+	type = country_event
+	category = disaster_event
+	title = decline_of_kyiv.1.title
+	image = "gfx/interface/illustrations/disasters/decline_of_kyiv.dds"
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = { tag = KIE }
+				desc = decline_of_kyiv.1.desc_a
+				}
+			triggered_desc = {
+				trigger = {
+					OR = {
+						tag = MOS
+						tag = GLH
+						tag = LIT
+						}
+					}
+				desc = decline_of_kyiv.1.desc_b
+				}
+			}
+		}
+
+	option = {
+		name = decline_of_kyiv.1.a
+
+		trigger = {tag = KIE}
+
+		add_country_modifier = {
+			name = scars_of_the_mongol_invasion
+			years = modifier_duration_years_long
+			mode = replace
+		}
+			
+	}
+	option = {
+		name = decline_of_kyiv.1.b
+		trigger = {
+			NOT = {tag = KIE}
+		}
+	}	
+
+}

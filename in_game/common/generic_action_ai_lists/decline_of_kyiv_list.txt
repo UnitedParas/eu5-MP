@@ -1,0 +1,14 @@
+﻿decline_of_kyiv_list = {
+	potential = {
+		any_active_disaster = {
+			disaster_type = disaster_type:decline_of_kyiv
+		}
+	}
+	actions = {
+		placate_the_mongols
+        placate_the_lithuanians
+        placate_the_rurikovichs
+        strengthen_local_administration
+        emergency_tax_collection
+	}
+}

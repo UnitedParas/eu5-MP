@@ -1,0 +1,398 @@
+﻿namespace = flavor_eng
+
+# The Act of Supremacy
+flavor_eng.7 = {
+	type = country_event
+	fire_only_once = yes
+	title = flavor_eng.7.title
+	desc = flavor_eng.7.desc
+	outcome = neutral
+
+	dynamic_historical_event = {
+		tag = ENG
+		from = 1500.1.1
+		to = 1600.1.1
+		monthly_chance = 100
+	}
+
+	trigger = {
+
+		OR = {
+			religion = religion:catholic
+			religion = religion:lollardy
+		}
+
+		religion:lutheran = { is_religion_enabled = yes }
+
+		ruler ?= {
+			is_female = no
+			is_married = yes
+			any_child = {
+				is_female = no
+				is_alive = yes
+				count < 1
+			}
+			age_in_years > 25
+		}
+
+		c:PAP ?= {	religion = religion:catholic }
+
+	}
+
+	illustration_tags = {
+        10 = angry
+        10 = interior
+    }
+
+	immediate = {
+		event_illustration_estate_effect = { foreground = estate_type:clergy_estate background = estate_type:clergy_estate }
+
+		create_character = {
+			first_name = name_anna
+			adm = 20
+			dip = 60
+			mil = 10
+			fertility = 25
+			female = yes
+			dynasty = dynasty:boleyn_dynasty
+			estate = estate_type:nobles_estate
+			religion = religion:anglican
+			age = 18
+			birth_location = location:rochester
+			save_scope_as = anne_boleyn
+			script = eng_anne_boleyn
+		}
+
+		ruler.first_spouse = {
+			save_scope_as = current_wife
+		}
+
+		capital = {
+			save_scope_as = target_location
+		}
+
+		root = { save_scope_as = target_root_country }
+
+		character:eng_thomas_wolsey ?= {
+			save_scope_as = thomas_wolsey
+		}
+
+	}
+
+	option = {
+		name = flavor_eng.7.a
+		historical_option = yes
+
+		custom_tooltip = flavor_eng.7.tt1
+
+		religion:anglican = {
+			enable_religion = yes
+		}
+
+		custom_tooltip = {
+			text = flavor_eng.7.a.tooltip
+			ordered_owned_location = {
+				order_by = population
+				max = {
+					value = 1
+					add = {
+						value = num_provinces
+						multiply = 0.2
+					}
+				}
+				every_pop = {
+					limit = {
+						religion = religion:catholic
+					}
+					split_pop = {
+						fraction = 0.20
+						religion = religion:anglican
+					}
+				}
+			}
+		}
+
+		change_religion = religion:anglican
+		change_religion_for_ruler_and_family = { country = ROOT religion = religion:anglican }
+
+		add_stability = stability_extreme_penalty
+
+		ruler ?= {
+			divorce_character = scope:current_wife
+			marry_character = scope:anne_boleyn
+			change_character_religion = religion:anglican
+			if = {
+				limit = {
+					has_character_modifier = enacted_placitum_regium
+				}
+				remove_character_modifier = enacted_placitum_regium 
+			}
+		}
+
+		hidden_effect = {
+			if = {
+				limit = { is_member_of_international_organization_of_type = { type = union } }
+				union = {
+					every_international_organization_member = {
+						limit = { NOT = { this = root } }
+						trigger_event_non_silently = { id = flavor_eng.250 }
+					}
+				}
+			}
+		}
+
+		custom_tooltip = flavor_eng.7.tt2
+
+		add_estate_satisfaction = { type = estate_type:nobles_estate
+			value = estate_satisfaction_mild_penalty
+		}
+
+	}
+	option = {
+		name = flavor_eng.7.b
+
+		c:PAP = {
+			add_opinion = {
+				target = root
+				modifier = accepted_supremacy_of_rome
+			}
+		}
+
+		hidden_effect = {
+			scope:anne_boleyn = {
+				add_character_modifier = {
+					modifier = block_marriage
+					years = -1
+					mode = add_and_extend
+				}
+			}
+		}
+
+		custom_tooltip = flavor_eng.7.tt1
+
+		character:eng_thomas_wolsey ?= {
+			if = {
+				limit = {
+					is_alive = yes
+					in_cabinet = yes
+				}
+				add_adm = 10
+				add_dip = 10
+				root = { custom_tooltip = flavor_eng.7.tt3 }
+			}
+		}
+
+		ruler = {
+			add_adm = -10
+			add_dip = -10
+		}
+
+		custom_tooltip = flavor_eng.7.tt4
+
+	}
+
+	historical_info = flavor_eng.7.historical_info
+
+}
+
+flavor_eng.45 = {
+	type = country_event
+
+	fire_only_once = yes
+
+	title = flavor_eng.45.title
+	desc = flavor_eng.45.desc
+	outcome = neutral
+	historical_info = flavor_eng.45.historical_info
+	dynamic_historical_event = {
+		tag = ENG
+		from = 1350.1.1
+		to = 1500.1.1
+		monthly_chance = 33
+	}
+
+
+	trigger = {
+		has_ruler = yes
+		owns_or_non_sovereign_subject_owns = location:york
+		ruler.dynasty ?= dynasty:plantagenet_dynasty
+		dynasty:plantagenet_dynasty = {
+			any_character_in_dynasty = {
+				is_heir = no
+				is_ruler = no
+				is_female = no
+				is_adult = yes
+			}
+		}
+
+		dynasty:lancaster_dynasty ?= {
+			any_character_in_dynasty = {
+				count > 0
+			}
+		}
+	}
+
+	illustration_tags = {
+        10 = regular
+        10 = interior
+    }
+
+	immediate = {
+		event_illustration_estate_effect = { foreground = estate_type:nobles_estate background = estate_type:nobles_estate }
+		dynasty:plantagenet_dynasty = {
+			random_character_in_dynasty = {
+				limit = {
+					is_heir = no
+					is_ruler = no
+					is_female = no
+					is_adult = yes
+				}
+				weight = {
+					base = 1
+					modifier = {
+						factor = 100
+						trigger = {
+							exists = father
+							father ?= character:eng_edward_iii
+						}
+					}
+				}
+				save_scope_as = target_character
+				change_dynasty = dynasty:york_dynasty
+				every_descendant = {
+					change_dynasty = dynasty:york_dynasty
+				}
+			}
+			scope:target_character.dynasty = { save_scope_as = target_dynasty }
+		}
+	}
+
+	option = {
+		name = flavor_eng.45.a
+		show_as_tooltip = {
+			scope:target_character = {
+				change_dynasty = dynasty:york_dynasty
+				every_descendant = {
+					change_dynasty = dynasty:york_dynasty
+				}				
+			}
+		}
+		add_prestige = prestige_extreme_bonus
+	}
+
+}
+
+flavor_eng.46 = {
+	type = country_event
+
+	fire_only_once = yes
+
+	title = flavor_eng.46.title
+	desc = flavor_eng.46.desc
+	outcome = neutral
+	historical_info = flavor_eng.46.historical_info
+
+	dynamic_historical_event = {
+		tag = ENG
+		from = 1350.1.1
+		to = 1500.1.1
+		monthly_chance = 33
+	}
+
+
+	trigger = {
+		has_ruler = yes
+		owns_or_non_sovereign_subject_owns = location:lancaster
+		ruler.dynasty ?= dynasty:plantagenet_dynasty
+		dynasty:plantagenet_dynasty = {
+			any_character_in_dynasty = {
+				is_heir = no
+				is_ruler = no
+				is_female = no
+				is_adult = yes
+				is_married = no
+				age_in_years < 40
+				is_alive = yes
+			}
+		}
+		dynasty:lancaster_dynasty ?= {
+			any_character_in_dynasty = {
+				is_heir = no
+				is_ruler = no
+				is_female = yes
+				is_adult = yes
+				is_married = no
+				age_in_years < 35
+				is_alive = yes
+			}
+		}
+	}
+
+	illustration_tags = {
+        10 = happy
+        10 = interior
+    }
+
+	immediate = {
+		event_illustration_estate_effect = { foreground = estate_type:nobles_estate background = estate_type:nobles_estate }
+		dynasty:plantagenet_dynasty = {
+			random_character_in_dynasty = {
+				limit = {
+					is_heir = no
+					is_ruler = no
+					is_female = no
+					is_adult = yes
+					is_married = no
+					age_in_years < 40
+					is_alive = yes
+				}
+				weight = {
+					base = 1
+					modifier = {
+						factor = 100
+						trigger = {
+							exists = father
+							father ?= character:eng_edward_iii
+						}
+					}
+				}
+				add_fertility = 100
+				save_scope_as = target
+			}
+		}
+		dynasty:lancaster_dynasty ?= {
+			random_character_in_dynasty = {
+				limit = {
+					is_heir = no
+					is_ruler = no
+					is_female = yes
+					is_adult = yes
+					is_married = no
+					age_in_years < 35
+					is_alive = yes
+				}
+				add_fertility = 100
+				save_scope_as = target_female
+			}
+		}
+	}
+	option = {
+		name = flavor_eng.46.a
+		scope:target = {
+			change_dynasty = dynasty:lancaster_dynasty
+			marry_character = scope:target_female
+
+			every_descendant = {
+				change_dynasty = dynasty:lancaster_dynasty
+			}
+		}
+		add_prestige = prestige_extreme_bonus
+	}
+
+	after = {
+		trigger_event_silently = {
+			id = flavor_eng.666
+			months = { 400 500 }
+		}
+	}
+}

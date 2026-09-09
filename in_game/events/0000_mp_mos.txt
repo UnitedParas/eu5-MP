@@ -1,0 +1,139 @@
+namespace = flavor_mos
+
+flavor_mos.36 = {
+	type = country_event
+	fire_only_once = yes
+	title = flavor_mos.36.title
+	desc = flavor_mos.36.desc
+	outcome = neutral
+
+	dynamic_historical_event = {
+		tag = MOS
+		from = 1530.1.1
+		to = 1550.1.1
+		monthly_chance = 20
+	}
+
+	trigger = {
+
+		ruler ?= {
+			is_female = no
+			is_married = yes
+			any_child = {
+				is_female = no
+				is_alive = yes
+				count < 1
+			}
+			age_in_years > 30
+		}
+
+	}
+
+	illustration_tags = {
+		10 = regular
+		10 = interior
+	}
+
+	immediate = {
+		event_illustration_estate_effect = { foreground = estate_type:nobles_estate background = estate_type:nobles_estate }
+		#event_illustration_estate_background_effect = { background = estate_type:crown_estate }
+
+		ruler.first_spouse = {
+			save_scope_as = current_wife
+		}
+
+		capital = {
+			save_scope_as = target_location
+		}
+
+		create_character = {
+			first_name = name_eleanor
+			adm = 50
+			dip = 72
+			mil = 27
+			fertility = 100
+			female = yes
+			dynasty = dynasty:glinski_dynasty
+			estate = estate_type:nobles_estate
+			age = 18
+			religion = c:LIT.religion
+			culture = culture:crimean
+			birth_location = location:turov
+			save_scope_as = eleanor_glinskaya
+			script = mos_eleanor_glinskaya
+			create_in_limbo = yes
+		}
+
+		create_character = {
+			first_name = name_john
+			nickname = the_terrible
+			adm = 90
+			dip = 25
+			mil = 90
+			age = 1
+			birth_location = scope:target_location
+			mother = scope:eleanor_glinskaya
+			father = root.ruler
+			save_scope_as = ivan_the_terrible
+			script = mos_ivan_the_terrible
+			create_in_limbo = yes
+		}
+
+		scope:ivan_the_terrible = {
+			add_character_modifier = {
+				modifier = terrible
+				years = -1
+				mode = add_and_extend
+			}
+		}
+
+		root = { save_scope_as = target_root_country }
+
+	}
+
+	option = {
+		name = flavor_mos.36.a
+		historical_option = yes
+
+		ruler = {
+			divorce_character = scope:current_wife
+			marry_character = scope:eleanor_glinskaya
+		}
+
+		add_stability = stability_mild_bonus
+
+		add_estate_satisfaction = { type = estate_type:clergy_estate
+			value = estate_satisfaction_mild_penalty
+		}
+
+		custom_tooltip = {
+			text = flavor_mos.36.tt1
+			scope:eleanor_glinskaya = { move_country = root }
+			scope:ivan_the_terrible = { move_country = root }
+		}
+
+		ai_chance = {
+			factor = 1
+		}
+	}
+
+	option = {
+		name = flavor_mos.36.b
+
+		hidden_effect = { kill_character_silently = scope:eleanor_glinskaya }
+		hidden_effect = { kill_character_silently = scope:ivan_the_terrible }
+
+		add_government_power = government_power_mild_penalty
+
+		add_estate_satisfaction = { type = estate_type:clergy_estate
+			value = estate_satisfaction_severe_bonus
+		}
+
+		ai_chance = {
+			factor = 0.5
+		}
+	}
+
+	historical_info = flavor_mos.36.historical_info
+
+}

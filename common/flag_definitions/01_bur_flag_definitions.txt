@@ -1,0 +1,98 @@
+REPLACE:BUR = { # Burgundy
+	# BUR - Ancient : Barry OB & border G
+	# BUR_Valois - Younger (15th c.) Qtly Bourgogne & Touraine
+
+	flag_definition = {
+		coa = BUR
+		priority = 1
+	}
+	flag_definition = {
+		coa = BUR_Valois
+		priority = 5
+		trigger = {
+			coa_def_valois_dynasty_trigger = yes
+		}
+	}
+	flag_definition = {
+		coa = BUR_ValoisJohn
+		priority = 20
+		trigger = {
+			coa_def_flanders_ownership_trigger = yes
+			coa_def_valois_dynasty_trigger = yes
+			
+		}
+	}
+	flag_definition = {
+		coa = BUR_ValoisPhillip
+		priority = 30
+		trigger = {
+			coa_def_valois_dynasty_trigger = yes
+			coa_def_flanders_ownership_trigger = yes
+			coa_def_limburg_ownership_trigger = yes
+		}
+	}
+	flag_definition = {
+		coa = BUR_cross
+		priority = 40
+		trigger = {
+			is_subject = no
+			coa_def_discovery_age_3_trigger = yes
+		}
+	}
+	#flag_definition = {
+	#	coa = BUR_cross_war
+	#	priority = 45
+	#	trigger = {
+	#		is_subject = no
+	#		coa_def_discovery_age_3_trigger = yes
+	#		coa_def_at_war_trigger = yes
+	#	}
+	#}
+	flag_definition = {
+		coa = BUR_civil
+		priority = 50
+		trigger = {
+			is_subject = no
+			coa_def_discovery_age_3_trigger = yes
+			coa_def_republic_trigger = yes
+		}
+	}
+	flag_definition = {
+		coa = BUR_cross_absolute_valois
+		priority = 60
+		trigger = {
+			is_subject = no
+			coa_def_absolute_monarchy_trigger = yes
+			coa_def_absolutism_age_4_trigger = yes
+		}
+	}
+	flag_definition = {
+        coa = BUR_republic_late
+        priority = 70
+        trigger = {
+            coa_def_republic_trigger = yes
+            coa_def_revolutions_age_6_trigger = yes
+        }
+    } 
+	flag_definition = {
+		coa = BUR_habsburg
+		priority = 80
+		trigger = {
+			coa_def_valois_burgundy_dynasty_trigger = yes
+		}
+	}   
+    flag_definition = {
+        coa = BUR_rev
+        priority = 90
+        trigger = {
+            coa_revolutionary_republic_trigger = yes
+        }
+    }
+    flag_definition = {
+        coa = BUR_rev_empire
+        priority = 95
+        trigger = {
+            coa_revolutionary_empire_trigger = yes
+        }
+    }
+}

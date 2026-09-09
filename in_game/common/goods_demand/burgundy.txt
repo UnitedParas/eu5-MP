@@ -1,0 +1,6 @@
+pinot_noir = {
+	wine = 4
+
+	hidden = yes
+	category = special_demands
+}

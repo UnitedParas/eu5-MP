@@ -1,0 +1,153 @@
+namespace = flavor_fra
+
+flavor_fra.1017 = { # Gabelle
+	type = country_event
+
+	title = flavor_fra.1017.t
+	desc = flavor_fra.1017.desc
+	outcome = neutral
+
+	historical_info = flavor_fra.1017.historical_info
+
+	fire_only_once = yes
+	dynamic_historical_event = {
+		tag = FRA
+		from = 1300.1.1
+		to = 1946.1.1
+		monthly_chance = 50
+	}
+
+	trigger = {
+		is_ai = no
+		monthly_income_trade_and_tax < 50
+	}
+
+	illustration_tags = {
+		10 = angry
+		10 = exterior
+	}
+
+	immediate = {
+		event_illustration_estate_effect = { foreground = estate_type:peasants_estate background = estate_type:peasants_estate }
+		unlock_government_reform_effect = { type = gabelle }
+	}
+
+	option = { # Implement the tax
+		name = flavor_fra.1017.a
+		historical_option = yes
+
+		add_reform = government_reform:gabelle
+		add_stability = stability_mild_penalty
+		add_estate_satisfaction = {
+			type = estate_type:peasants_estate
+			value = estate_satisfaction_extreme_penalty
+		}
+	}
+
+	option = { # No
+		name = flavor_fra.1017.b
+
+		add_government_power = government_power_mild_penalty
+		add_estate_satisfaction = {
+			type = estate_type:peasants_estate
+			value = estate_satisfaction_mild_bonus
+		}
+	}
+}
+
+flavor_fra.2030 = { # Rise of Burgundy # Burgundy has grown too strong
+	type = country_event
+	fire_only_once = yes
+
+ 	title = flavor_fra.2030.t
+ 	desc = flavor_fra.2030.desc
+	outcome = neutral
+
+	dynamic_historical_event = {
+		tag = FRA
+		from = 1400.1.1
+		to = 1475.1.1
+		monthly_chance = 12
+	}
+
+ 	trigger = {
+		country_exists = c:ENG
+		country_exists = c:BUR
+		OR = {
+			at_war = no
+			has_truce_with = c:ENG
+		}
+		has_ruler = yes
+		c:BUR ?= {
+			has_ruler = yes
+		}
+		OR = {
+			region:france_region = {
+				any_location_in_region = {
+					owner ?= {
+						top_overlord_or_this ?= c:ENG
+					}
+					count > 30
+				}
+			}
+		}
+ 	}
+
+	illustration_tags = {
+		10 = regular
+		10 = interior
+	}	
+
+ 	immediate = {
+		event_illustration_estate_effect = { foreground = estate_type:nobles_estate background = estate_type:nobles_estate }
+		cancel_subject = c:BUR	
+        ruler ?= {
+            save_scope_as = ruler_fra
+        }
+        c:BUR = {
+            ruler ?= {
+                save_scope_as = ruler_bur
+            }
+        }
+ 	}
+
+ 	option = { # The Lords of Burgundy will be brought to heel
+		name = flavor_fra.2030.a
+		historical_option = yes
+		add_stability = stability_extreme_penalty
+		custom_tooltip = fra_aggression_towards_burgundy
+		c:BUR = {
+			add_stability = stability_extreme_bonus
+			ruler ?= {
+				add_adm = 15
+				add_dip = 15
+				add_mil = 15
+			}
+		}
+		add_casus_belli =  {
+			type = casus_belli:cb_annex
+			target = c:BUR
+		}
+        ai_chance = {
+            base = 75
+        }
+ 	}
+
+ 	option = { # We cannot risk a larger conflict with Burgundy
+		name = flavor_fra.2030.b
+		custom_tooltip = fra_neutrality_towards_burgundy
+		add_prestige = prestige_mild_penalty
+		add_stability = stability_mild_penalty
+		c:BUR = {
+			add_stability = stability_extreme_bonus
+			ruler ?= {
+				add_adm = 15
+				add_dip = 15
+				add_mil = 15
+			}
+		}
+        ai_chance = {
+            base = 25
+        }
+ 	}
+}

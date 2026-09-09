@@ -1,0 +1,3122 @@
+locations = {
+	
+	malmo = {
+		timed_modifiers={
+				timed_modifiers={ 
+				{
+					modifier="skane_herring_market"
+					start_date=1111.1.1
+					date=9999.1.1
+					size=1
+				} 
+			}
+		}
+	}
+
+	freiberg = {
+		timed_modifiers={
+				timed_modifiers={ 
+				{
+					modifier="freiberg_base"
+					start_date=1111.1.1
+					date=9999.1.1
+					size=1
+				} 
+			}
+		}
+	}
+	
+	hormuz = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	bandar_lengeh = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	bandar_kamir = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	gamrun = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	bandar_charak = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	minab = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	golashkerd = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	manujan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	nowdezh = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	rudkhaneh = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	shaqrud = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	senderk = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	sirik = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	al_tiz = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	bandar_e_jask = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	bashagard = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	bent = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	bih = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	jagin_zir = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	zarabad = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	qasr_e_qand = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	gwatar = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	kalmat = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	rask = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	sarbaz = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	gwadar = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	buleda = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	irafshan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	kuddan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	pasni = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	tump = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	turbat = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	zik = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	bela = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	hinglaj = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	lakhsar = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	ormara = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	sonamiani = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	wadh = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	qusdar = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	awaran = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	jhao = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	mashkai = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	nal = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	surab = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	bannajbur = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	mahgas = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	murt = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	nagh = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	paroom = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	saravan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	suran = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	kharan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	besima = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	chagai = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	naalbandin = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	washuk = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	quetta = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	gulistan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	kalat = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	mastung = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	nushki = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	shorabak = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	khash = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	jaleq = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	ladiz = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	mashkel = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	bam = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	fahraj_narmashir = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	narmashir = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	rayen = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	rigan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	sepeh = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	kahnuj = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	mardehek = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+	
+	qaleh_ganj = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	shahabad_kerman = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	sirjan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	arzu = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+hajjiabad = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	khabr = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	qatruyeh = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	saadatabad = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	soghan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	kerman = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	ghobeyra = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	mahan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	shahdad = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	rafsanjan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	anar = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	baghin = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	bahreman = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	bardsir = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	dehaj = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	ernan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	negar = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	yazd = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	ardakan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	meybod = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	nadushan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	saryazd = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	taft = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	siraf = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	ahel = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	asir = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	bastak = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	kish = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	kariyan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	alamarvdasht = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	bagh_iran = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	jahreh = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	karzin = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	khunj = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	lar = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	darz = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	dehtal = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	fin = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	ruydar = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	darab = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	hajjiabad_zarrindasht = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	jannat_shahr = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	rostaq = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	tarom = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	jahrom = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	fasa = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	ij_iran = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	juyom = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	kavar = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	meymand = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	firuzabad = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	bandar_deyr = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	dehram = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	kalameh = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	khormoj = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	riz = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	kazerum = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	borazjan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	reyshahr = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	farrashband = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	sar_mashhad = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	qala_safid = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	bandar_deylam = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	bandar_rig = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	basht = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	jannaba = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	nurabad = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	istakhr = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	aspas = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	beyza = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	qaryat_al_bidh = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	saadatshahr = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	shahr_meyan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	deh_kord = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	borujen = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	samiram = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	sisakht = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	vanak = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	yasuj = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	behbahan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	dehdasht = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	dishmok = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	dogonbadan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	hendijan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	suq = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	ahvaz = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	dowraq = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	hamidiyeh = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	hoveyzeh = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	mosharahat = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	muhammerah = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	izeh = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	andika = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	dehdez = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	lordegan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	naghan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	dezful = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	andimeshk = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	masjed_soleyman = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	shush = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	shushtar = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	somaleh = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	wasit = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	abdanan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	al_tib = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	arkvaz = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	bakusaya = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	dehloran = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	meymeh = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	baghdad = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	badra = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	balad_ruz = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	bagubah = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	dayr_aqul = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	khalis = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	jiroft = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	baft = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	dowlatabad_esfandaqeh = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	rabor = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	sarduiyeh = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	zakht = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	abarkuh = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	abadeh = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	bavanat = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	dehshir = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	eqlid = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	marvast = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	zarand_iran = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	bafq = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	behabad = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	kuhbanan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	ravar = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	kazerun = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	farashband = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	ramhormoz = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	bagh_malek = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	khalafabad = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	machul = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	quban = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	shiraz = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	sarvestan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	kherameh = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	zarqan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	abadeh_tashk = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	neyriz = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	meshkan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	harat = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	khabar = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	shahr_e_babak = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	khatunabad = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	bandar_khamir = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	rameshk = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	espakeh = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	bampur = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	fahrej = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	karvandar = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	bazman = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	dalgan = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+
+	khuzdar = {
+		timed_modifiers={
+			timed_modifiers={
+				{
+					modifier="recovery_from_the_mongols"
+					start_date=1337.1.1
+					date=1360.1.1
+					size=1
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,18 @@
+coa_def_valois_burgundy_dynasty_trigger = {
+	scope:actor.ruler.dynasty ?= { dynasty:valois_burgundy_dynasty ?= this }
+}
+
+coa_def_french_monarch_trigger = {
+	scope:ruler ?= {
+		owns = location:paris
+	}
+}
+
+coa_revolutionary_empire_trigger = {
+    scope:actor ?= {
+        has_reform = government_reform:revolutionary_empire
+    }
+}
+coa_def_revolutionary_empire_trigger = {
+    scope:actor ?= { coa_revolutionary_empire_trigger = yes }
+}

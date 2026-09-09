@@ -1,0 +1,96 @@
+﻿strait_of_dover = {
+	game_data = {
+		category = location
+	}
+	local_merchant_capacity_modifier = 0.25
+    local_trade_center_power = 0.25
+    local_population_growth = 0.001
+	local_building_establishment_speed = 0.2
+	local_monthly_development_modifier = 0.1
+}
+
+pillars_of_hercules = {
+	game_data = {
+		category = location
+	}
+	local_trade_protection_factor = 0.30
+	local_defensive = 0.25
+	local_market_access = 0.1
+	local_hostile_attrition = 0.5
+	hostile_disembark_time_modifier = 0.5
+	local_building_establishment_speed = -0.1
+}
+
+gateway_of_the_persian_gulf = {
+	game_data = {
+		category = location
+	}
+	local_merchant_capacity_modifier = 0.5
+	local_trade_center_power = 0.5
+	local_market_access = 0.2
+	local_burghers_pop_growth = 0.1
+	local_population_capacity_modifier = -0.1
+}
+
+crossroads_of_the_indies = {
+	game_data = {
+		category = location
+	}
+	local_merchant_capacity_modifier = 0.5
+	local_trade_center_power = 0.5
+	local_market_access = 0.25
+	local_population_growth = 0.002
+	local_monthly_prosperity = 0.005
+	local_population_capacity_modifier = 0.2
+}
+
+the_sound = {
+	game_data = {
+		category = location
+	}
+	local_trade_protection_factor = 0.35
+	local_trade_center_power = 0.35
+	local_population_growth = 0.001
+	local_merchant_capacity_modifier = 0.25
+	local_naval_supplies_output_modifier = 0.25
+}
+
+the_bosphorus_and_the_dardanelles = {
+	game_data = {
+		category = location
+	}
+	local_merchant_capacity_modifier = 0.2
+	local_trade_center_power = 0.15
+	local_defensive = 0.1
+	local_monthly_development_modifier = 0.1
+}
+
+gate_of_the_red_sea = {
+	game_data = {
+		category = location
+	}
+	local_merchant_capacity_modifier = 0.4
+	local_trade_center_power = 0.4
+	local_market_access = 0.2
+	local_trade_protection_factor = 0.2
+	local_population_growth = 0.001
+	local_production_efficiency = 0.05
+}
+
+recovery_from_the_mongols = {
+	game_data = {
+		category = location
+		decaying = no
+	}
+	local_population_growth = 0.05
+	local_monthly_development = 0.01
+	local_monthly_prosperity = 0.02
+
+}
+
+langarud_base = {
+	game_data = {
+		category = location
+	}
+	local_silk_output_modifier = 1
+}

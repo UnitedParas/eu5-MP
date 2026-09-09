@@ -1,0 +1,169 @@
+﻿l_english:
+
+# ===== ADVANCES =====
+ nd_drr_pashtunwali: "Pashtunwali Code"
+ nd_drr_pashtunwali_desc: "The unwritten honour code of the Pashtuns, binding every tribesman to nanawatai, melmastia, badal, and nang. The Empire rules with the code, not against it."
+
+ nd_drr_bala_hissar: "Bala Hissar Fortifications"
+ nd_drr_bala_hissar_desc: "The mountain citadels of Kabul, Kandahar, Ghazni, and Herat command the passes. From their bastions the Shah holds the high country, even when the lowlands are lost."
+
+ nd_drr_mountain_raiders: "Mountain Raiders"
+ nd_drr_mountain_raiders_desc: "The Pashtun tribesmen know every defile of the Hindu Kush. As light infantry they harry, ambush, and bleed any invader who climbs into their hills."
+
+ nd_drr_kandahari_horses: "Kandahari Horse Trade"
+ nd_drr_kandahari_horses_desc: "Kandahar is the great horse market of the crossroads, where Turkmen, Persian, and Indian buyers contend for the best Afghan stock."
+
+ nd_drr_pass_tolls: "Rahdari Customs"
+ nd_drr_pass_tolls_desc: "The rahdar officers post tolls at the Khyber, the Bolan, and Kabul gates, taxing every caravan that crosses between Hindustan, Persia, and Turan."
+
+ nd_drr_sufi_networks: "Sufi Shrine Networks"
+ nd_drr_sufi_networks_desc: "Naqshbandi and Qadiri orders bind tribe and crown through the khanaqahs and dargahs that dot the empire's roads."
+
+ nd_drr_hindki_merchants: "Hindki Merchant Communities"
+ nd_drr_hindki_merchants_desc: "The Hindu and Sikh trading families of Kabul, Peshawar, and Multan are kept under royal protection. Their networks reach to Bukhara, Lhasa, and Banaras."
+
+ nd_drr_khorasan_revival: "Khorasan Revival"
+ nd_drr_khorasan_revival_desc: "Persian poetry, Indo-Persian historiography, and Dari court letters flourish in the Durrani diwan. The Empire is heir to Khorasan as well as to Pashtunkhwa."
+
+ nd_drr_jirga_councils: "Jirga Councils"
+ nd_drr_jirga_councils_desc: "Tribal assemblies decide local matters by consensus. The Shah governs by council, not decree, and the Empire holds together because every chief feels heard."
+
+ nd_drr_hotaki_revival: "Hotaki Revival"
+ nd_drr_hotaki_revival_desc: "The memory of Mirwais Hotak's revolt against the Safavids steels Afghan arms. The Pashtuns once took Isfahan; they may do so again."
+
+ nd_drr_sistan_qanats: "Sistan Qanats"
+ nd_drr_sistan_qanats_desc: "Karez and qanat irrigation revives the Helmand basin and the wastes of Sistan. The empire's granaries fill where for centuries only nomads grazed."
+
+ nd_drr_naqshbandi_tariqa: "Naqshbandi-Mujaddidi Tariqa"
+ nd_drr_naqshbandi_tariqa_desc: "The renewed Sufi order of Sirhindi spreads through the empire. Its shaykhs preach a disciplined Sunni orthodoxy and bind the tribes to a single confessional cause."
+
+ nd_drr_jezail_tradition: "Jezail Rifle Tradition"
+ nd_drr_jezail_tradition_desc: "Khyber gunsmiths produce the long-barrel matchlock, accurate to ranges no European musket can match. Pashtun marksmen dominate the broken country."
+
+ nd_drr_indo_persian_court: "Indo-Persian Court"
+ nd_drr_indo_persian_court_desc: "The Durrani diwan blends Persianate administration with Hindustani court forms. Munshis, mirzas, and pandits all serve the Shah."
+
+ nd_drr_tribal_sardars: "Council of Sardars"
+ nd_drr_tribal_sardars_desc: "The hereditary chiefs of the nine great Durrani tribes form the Shah's permanent council, raising levies and arbitrating between the clans."
+
+ nd_drr_abdali_heritage: "Abdali Heritage"
+ nd_drr_abdali_heritage_desc: "Sabir Shah's blessing renamed the Abdali the Durrani: the Pearl of Pearls. The dynasty bears the prestige of that founding."
+
+ nd_drr_loya_jirga_advance: "Loya Jirga Tradition"
+ nd_drr_loya_jirga_advance_desc: "The grand assembly of all Pashtun tribes is the constitutional foundation of the Empire. Each new Shah is acclaimed by it; each great war is sanctioned by it."
+
+ nd_drr_ghulam_khana: "Ghulam Khana"
+ nd_drr_ghulam_khana_desc: "The royal household guard, drawn from Pashtun, Tajik, and Qizilbash veterans. Mailed lancers loyal only to the Shah."
+
+ nd_drr_zamburak_corps: "Zamburak Corps"
+ nd_drr_zamburak_corps_desc: "Camel-mounted swivel guns, fast across desert and steppe. At Panipat two thousand zamburakis broke the Maratha line."
+
+ nd_drr_panipat_doctrine: "Panipat Doctrine"
+ nd_drr_panipat_doctrine_desc: "The Durrani way of war: heavy mailed cavalry on the wings, jezailchis in skirmish, zamburaks in mobile reserve. A doctrine forged in the great Indian campaigns."
+
+ nd_drr_kandahar_treasury: "Kandahar Treasury"
+ nd_drr_kandahar_treasury_desc: "The royal mint and tribute repository at Kandahar receives the loot of Delhi, the customs of the Khyber, and the tribute of Sindh."
+
+ nd_drr_sadozai_succession: "Sadozai Succession"
+ nd_drr_sadozai_succession_desc: "The dynastic crisis after Timur Shah, when Sadozai princes contend at Kabul, Peshawar, and Herat. The way the empire navigates this crisis shapes its century."
+
+ nd_drr_frontier_defense: "Frontier Defense"
+ nd_drr_frontier_defense_desc: "The long retreat from Punjab and Sindh teaches the empire to fight on the defensive. Every gorge of the Hindu Kush becomes a fortress."
+
+ nd_drr_modernization: "Durrani Modernization"
+ nd_drr_modernization_desc: "Tentative reforms under the late Sadozai and early Barakzai shahs: the printing press at Kabul, the artillery school, the survey of the realm."
+
+ nd_drr_lashkar_reform: "Lashkar Reform"
+ nd_drr_lashkar_reform_desc: "The tribal levy is reorganized for modern war, with permanent regiments drawn from the Pashtun valleys and standardized arms."
+
+# ===== UNITS =====
+ a_nd_drr_pashtun_lashkar: "Pashtun Lashkar"
+ a_nd_drr_pashtun_lashkar_desc: "Tribal warband levied through the loya jirga. Each man brings his own jezail or tulwar; collectively they are the spine of the Empire's army and a terror in their home mountains."
+
+ a_nd_drr_jezailchi: "Jezailchi"
+ a_nd_drr_jezailchi_desc: "Long-barrel matchlock skirmisher from the Khyber gunsmith villages. Famous for picking off officers at ranges no European musket can reach, and for vanishing back into the rocks."
+
+ a_nd_drr_ghulam_khana: "Ghulam Khana"
+ a_nd_drr_ghulam_khana_desc: "Royal household heavy cavalry. Mailed lancers drawn from Pashtun, Tajik, and Qizilbash veterans, sworn personally to the Shah."
+
+ a_nd_drr_zamburak: "Zamburak"
+ a_nd_drr_zamburak_desc: "A swivel gun mounted on a kneeling camel. Fast across desert and stony ground, devastating at the close range that broke the Marathas at Panipat."
+
+ a_nd_drr_zamburak_levy: "Zamburak Levy"
+ a_nd_drr_zamburak_levy_desc: "Tribal swivel-gunners raised through the soldiers and tribesmen of the Empire. Cheaper than the regular zamburak corps, but fights with the same fearsome sting."
+
+# ===== LEVIES =====
+ levy_nd_drr_pashtun_lashkar: "Pashtun Lashkar"
+ levy_nd_drr_pashtun_lashkar_desc: "Tribal warband mobilized by the call of the loya jirga, drawn from peasants, tribesmen, and the soldier estate."
+
+ levy_nd_drr_zamburak: "Zamburak Levy"
+ levy_nd_drr_zamburak_desc: "Camel-mounted swivel gunners raised from the Empire's soldiers and tribesmen for fast, hard-hitting field service."
+
+# ===== BUILDINGS =====
+ nd_drr_bala_hissar_fort: "Bala Hissar"
+ nd_drr_bala_hissar_fort_desc: "Mountain citadel commanding a city and its passes. The Bala Hissar of Kabul, the Arg of Kandahar, and the Citadel of Herat all follow this pattern."
+
+ nd_drr_bala_hissar_upkeep: "Citadel Garrison"
+ nd_drr_bala_hissar_upkeep_desc: "Stone, weapons, lumber, and tar to keep the bastions and gunports of a Bala Hissar in fighting order."
+
+ nd_drr_rahdari_post: "Rahdari Post"
+ nd_drr_rahdari_post_desc: "Customs station on the imperial caravan roads. Rahdar officers register caravans, levy tolls, and dispatch mounted escorts."
+
+ nd_drr_rahdari_upkeep: "Toll Administration"
+ nd_drr_rahdari_upkeep_desc: "Horses for the rahdar escorts, paper for the registers, leather and cloth for the tents and saddles of the customs riders."
+
+ nd_drr_jezail_workshop: "Jezail Workshop"
+ nd_drr_jezail_workshop_desc: "Khyber gunsmith house producing the long-barrel matchlock. The barrels are forged of pattern-welded iron and fitted with delicately curved stocks."
+
+ nd_drr_jezail_forging: "Long-Barrel Forging"
+ nd_drr_jezail_forging_desc: "Saltpeter, iron, and tools combined into the famous Khyber jezail rifle, prized across Asia."
+
+ nd_drr_jezail_maintenance: "Workshop Maintenance"
+ nd_drr_jezail_maintenance_desc: "Coal, iron, lumber, and tools to keep the forges running and the master gunsmiths fed."
+
+ nd_drr_kandahar_treasury_bld: "Royal Treasury"
+ nd_drr_kandahar_treasury_bld_desc: "The royal mint and tribute repository at Kandahar. Built to hold the Koh-i-Noor and the loot of Delhi, it became the financial spine of the Empire."
+
+ nd_drr_treasury_upkeep: "Treasury Administration"
+ nd_drr_treasury_upkeep_desc: "Paper for the registers, silver and gems for the assayers, books for the imperial accountants."
+
+# ===== EVENT VARIABLE TOOLTIPS =====
+ nd_drr_formed_tt: "Durrani Empire has been formed"
+ nd_drr_path_a_tt: "Loya Jirga path chosen"
+ nd_drr_path_b_tt: "Sword of Khorasan path chosen"
+
+# ===== ADDITIONAL UNITS =====
+ a_nd_drr_ghazi: "Ghazi"
+ a_nd_drr_ghazi_desc: "Pashtun frontier warriors of the Hotaki revival, called to jihad against the Safavids and the Marathas. Heavy shock infantry that fights with religious fervor in the broken country."
+
+ a_nd_drr_kohistani: "Kohistani Light Infantry"
+ a_nd_drr_kohistani_desc: "Modernized mountain infantry of the late Sadozai and Barakzai era. Drilled in European fashion but still at home in the gorges of the Hindu Kush."
+
+# ===== ADDITIONAL LEVY =====
+ levy_nd_drr_ghazi: "Ghazi Levy"
+ levy_nd_drr_ghazi_desc: "Religious volunteers raised through the soldier and tribesmen estates, mobilized by the Hotaki memory and the call of Sufi shaykhs."
+
+# ===== ADDITIONAL BUILDINGS =====
+ nd_drr_horse_market: "Kandahari Horse Market"
+ nd_drr_horse_market_desc: "The great regional horse fair where Turkmen, Persian, and Indian buyers contend for the best Afghan stock. The treasury thrives on its tolls."
+
+ nd_drr_horse_fair_upkeep: "Horse Fair Maintenance"
+ nd_drr_horse_fair_upkeep_desc: "Livestock, horses, leather, and grain to keep the great horse fair running through every season."
+
+ nd_drr_khanaqah: "Sufi Khanaqah"
+ nd_drr_khanaqah_desc: "Naqshbandi or Qadiri lodge combining shrine, seminary, and hostel for travelling dervishes. The shaykhs bind tribesmen and townsmen alike to the Empire's confessional life."
+
+ nd_drr_khanaqah_upkeep: "Khanaqah Endowment"
+ nd_drr_khanaqah_upkeep_desc: "Paper for the manuscripts, books for the seminary, incense and beeswax for the rituals at the dargah."
+
+ nd_drr_hindki_quarter: "Hindki Quarter"
+ nd_drr_hindki_quarter_desc: "Hindu and Sikh trading enclave under royal firman. Their family networks reach Bukhara, Lhasa, and Banaras, channeling trade through the Empire's bazaars."
+
+ nd_drr_hindki_upkeep: "Hindki Quarter Maintenance"
+ nd_drr_hindki_upkeep_desc: "Cloth, paper, pottery, and incense for the daily life and trade of the Hindki community."
+
+ nd_drr_kabul_press: "Kabul Lithographic Press"
+ nd_drr_kabul_press_desc: "The first Afghan printing press, established under Barakzai patronage at Kabul. Dari and Pashto books spread literacy and lay the foundation of a modern Afghan public."
+
+ nd_drr_press_upkeep: "Press Operations"
+ nd_drr_press_upkeep_desc: "Paper, books, and tools to keep the lithographic stones inked and the type-cases stocked."

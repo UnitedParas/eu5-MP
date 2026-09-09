@@ -1,0 +1,158 @@
+﻿l_english:
+
+ # ============================================================
+ # Variable tooltips
+ # ============================================================
+ nd_vjn_formed_tt: "The Karnata Empire has been formed."
+ nd_vjn_path_a_tt: "Karnata Destiny: the Pampa-Virupaksha line."
+ nd_vjn_path_b_tt: "Karnata Destiny: the Tuluva court."
+
+ # ============================================================
+ # Advances: Age 1
+ # ============================================================
+ nd_vjn_sangama_foundation: "Sangama Foundation"
+ nd_vjn_sangama_foundation_desc: "Harihara and Bukka, captives of the Tughluqs turned founders, raise Vijayanagara on the southern bank of the Tungabhadra in 1336 as a Hindu bulwark against the Sultanate's southern advance. The dynasty takes its legitimacy from the Saiva matha at Sringeri and the goddess Pampa of Hampi."
+ nd_vjn_kuravar_levies: "Kuravar Levies"
+ nd_vjn_kuravar_levies_desc: "The hill-peoples of the Western and Eastern Ghats (Kuravas, Irulas, and the broader forest castes) provide skirmishing archers and javelin-bearers to the imperial host. They know the jungle and the hill-track; the imperial cavalry rides through territory they have already mapped."
+ nd_vjn_vidyaranya_sanction: "The Sanction of Vidyaranya"
+ nd_vjn_vidyaranya_sanction_desc: "Vidyaranya, the Advaita Vedantin pontiff of the Sringeri Sharada Peetham, blesses the Sangama foundation and gives the dynasty spiritual sanction. The matha lends its scholar-clergy to the imperial court; the empire is born under a sage's hand."
+ nd_vjn_tank_irrigation: "Tank Irrigation"
+ nd_vjn_tank_irrigation_desc: "The Tungabhadra valley is laced with kere: earthen tanks fed by anicut diversion-dams across the river. The Hiriya canal alone irrigates Hampi, Kamalapura, and the imperial estates. Karnata agriculture is feast where the rains alone would be famine."
+ nd_vjn_dravidian_architecture: "Dravidian Temple Architecture"
+ nd_vjn_dravidian_architecture_desc: "Pyramidal gopurams, tiered mantapas, sculpted yali-pillars, monolithic Nandis, processional streets aligned to the sanctum: the Vijayanagara school synthesizes the Chola, Pallava, Hoysala, and Pandya inheritances into a unified imperial idiom."
+ nd_vjn_bhakti_traditions: "Bhakti Devotional Traditions"
+ nd_vjn_bhakti_traditions_desc: "The Alvars and Nayanars sang devotion in Tamil; the Haridasas now sing it in Kannada and Telugu. Purandaradasa, Kanakadasa, and Vyasaraja knit the southern peoples into a shared devotional vernacular that runs deeper than dynasty."
+
+ # ============================================================
+ # Advances: Age 2
+ # ============================================================
+ nd_vjn_devaraya_court: "The Court of Devaraya II"
+ nd_vjn_devaraya_court_desc: "Devaraya II, called Gajabetegara (the elephant-hunter), receives at Hampi the embassy of Abdul Razzaq from Timurid Herat (1442) and the merchant Niccolo de' Conti from Venice. The court's diplomatic reach now spans Persia, the Bahmani Deccan, the Indian Ocean, and the Mediterranean."
+ nd_vjn_amara_nayaka_system: "The Amara-Nayaka System"
+ nd_vjn_amara_nayaka_system_desc: "Territorial governorships called amarams are granted to nayaka commanders in exchange for sworn military service: cavalry, infantry, elephants, forts, and a remitted share of revenue. The empire raises armies through a feudal-military bureaucracy unique to the Karnata."
+ nd_vjn_saluva_consolidation: "The Saluva Consolidation"
+ nd_vjn_saluva_consolidation_desc: "After the chaos of the late Sangama succession, Saluva Narasimha seizes the throne in 1485, restores the imperial treasury, and reforms the army on the model of Vir Vir Narasimha. The empire centralizes."
+ nd_vjn_swarnakara_guilds: "Swarnakara Bronze Guilds"
+ nd_vjn_swarnakara_guilds_desc: "The swarnakara (the goldsmiths of the south) continue the Chola lost-wax tradition that produced the Nataraja and the Tirupati bronzes. Imperial workshops pour bronze processional icons, ritual lamps, sword-fittings, and elephant-armor for the empire's temples and armies."
+ nd_vjn_cosmopolitan_court: "The Cosmopolitan Court"
+ nd_vjn_cosmopolitan_court_desc: "Persians, Arabs, Italians, Portuguese, and Tibetans pass through Hampi's Bhima Gate. The court speaks Telugu, Sanskrit, and Persian; the imperial register is kept in four scripts. The Karnata empire is the most polyglot Hindu power on earth."
+ nd_vjn_imperial_elephant_corps: "Imperial Elephant Corps"
+ nd_vjn_imperial_elephant_corps_desc: "The empire keeps thousands of war elephants in the stables of Hampi, Penukonda, and Anegondi. Armored howdahs, palanquin commanders, and a mahout caste of hereditary elephant-handlers sustain the gajapati tradition the Karnata empire wears as its own."
+
+ # ============================================================
+ # Advances: Age 3
+ # ============================================================
+ nd_vjn_krishnadeva_coronation: "The Coronation of Krishnadeva Raya"
+ nd_vjn_krishnadeva_coronation_desc: "The third son of Tuluva Narasa Nayaka, born 1471, is crowned at Hampi in 1509. Krishnadeva, soldier, scholar, statesman, polyglot, poet of the Amuktamalyada, will reign for twenty years and bring the empire to its absolute zenith."
+ nd_vjn_ashtadiggajas: "The Ashtadiggajas"
+ nd_vjn_ashtadiggajas_desc: "Eight 'elephants of the directions' fill the imperial Bhuvana Vijaya (the Hall of World-Conquest). Allasani Peddana, Nandi Thimmana, Tenali Ramakrishna, Pingali Surana, and their fellows raise Telugu literature to a golden age and make Hampi the Athens of the south."
+ nd_vjn_arabian_horse_trade: "The Goa Horse Trade"
+ nd_vjn_arabian_horse_trade_desc: "The Portuguese capture of Goa in 1510 reroutes the Arabian and Persian horse-trade through Karnata-allied factors. The empire's heavy cavalry, long hampered by the southern climate, finally rides on imported Arabians at scale."
+ nd_vjn_coastal_emporia: "Coastal Emporia"
+ nd_vjn_coastal_emporia_desc: "Bhatkal, Honavar, Mangalore, Cochin, Kollam, Pulicat, Masulipatnam: the Karnata empire commands the southern coasts on both the Malabar and Coromandel sides. Spices flow out, horses and silver flow in."
+ nd_vjn_dig_vijaya_doctrine: "Dig-Vijaya Doctrine"
+ nd_vjn_dig_vijaya_doctrine_desc: "The classical Hindu campaign of conquest in all directions (the dig-vijaya) is reformulated under Krishnadeva as a doctrine of fast-marching columns, fort-reduction by entrenched cannon, and the systematic humiliation of feudatory courts."
+ nd_vjn_strategic_diplomacy: "Strategic Diplomacy"
+ nd_vjn_strategic_diplomacy_desc: "The empire never fights all the Sultanates at once. Bijapur is humbled while Ahmadnagar is conciliated; Golconda is courted while Berar is bullied. Krishnadeva's diplomatic instinct keeps the four-power coalition from forming for a generation."
+
+ # ============================================================
+ # Advances: Age 4
+ # ============================================================
+ nd_vjn_gajadhwaja_corps: "The Gajadhwaja Elephant Corps"
+ nd_vjn_gajadhwaja_corps_desc: "Under the gajadhwaja (the elephant-banner), the imperial corps of war elephants is reorganized into permanent regiments. Howdahs are armored against firearms; mahouts are trained from childhood; the Karnata gajasena becomes the most feared elephant force in the subcontinent."
+ nd_vjn_aravidu_restoration: "The Aravidu Restoration"
+ nd_vjn_aravidu_restoration_desc: "The Aravidu dynasty under Tirumala and his successors restores the empire from the southern capitals (Penukonda, Chandragiri, Vellore) and recovers the doab. The Karnata Rajya endures where in our timeline it fell."
+ nd_vjn_persian_factors: "Persian and Arab Factors"
+ nd_vjn_persian_factors_desc: "Imperial trading factors from Hormuz, Aden, and Muscat establish counting-houses at the Karnata port-cities. The empire's spice exports flow north through Persian merchant networks; horse and silver imports flow back."
+ nd_vjn_lessons_of_talikota: "The Lessons of Talikota"
+ nd_vjn_lessons_of_talikota_desc: "Whether averted or survived, the lessons of the Talikota plain are absorbed: never a divided command; never trust mercenary captains beyond their last paid month; always reserve a regrouping force; always know the enemy's pre-battle envoys."
+ nd_vjn_pluralist_patronage: "Pluralist Patronage"
+ nd_vjn_pluralist_patronage_desc: "Madhva mathas at Udupi, Sringeri Advaita pontiffs, Veerashaiva matas, Jain bastis, and Vaishnava temples at Tirupati and Srirangam all receive imperial endowment. The Karnata empire patronizes every Hindu strand without forcing one to dominate."
+ nd_vjn_telugu_court_language: "Telugu as Imperial Court Language"
+ nd_vjn_telugu_court_language_desc: "Krishnadeva's Amuktamalyada legacy elevates Telugu beside Sanskrit and Kannada as a language of imperial administration. Inscriptions, grants, and court epics now run in four scripts; the Dravidian peoples are bound through their own letters into the imperial vision."
+
+ # ============================================================
+ # Advances: Age 5
+ # ============================================================
+ nd_vjn_nayaka_reincorporation: "The Reincorporation of the Nayaka Kingdoms"
+ nd_vjn_nayaka_reincorporation_desc: "Madurai under the Nayaks of Madurai, Thanjavur under the Nayaks of Thanjavur, Gingee, Mysore, Ikkeri: the breakaway nayaka principalities of the post-Talikota collapse are brought back under direct imperial authority. The Karnata Rajya stands whole."
+ nd_vjn_imperial_treasury: "The Imperial Treasury"
+ nd_vjn_imperial_treasury_desc: "Karnata fiscal reform consolidates the multiple regional revenue systems into a unified imperial treasury at Hampi, with subsidiary treasuries at Penukonda and Madurai. Revenue assessment is regularized; surplus funds the imperial monumental program."
+ nd_vjn_coromandel_textiles: "Coromandel Textile Manufactories"
+ nd_vjn_coromandel_textiles_desc: "Madras, Pulicat, Masulipatnam, Pondicherry, Sadras: the Coromandel coast textile manufactories produce the finest painted and dyed cottons in the early-modern world. Karnata cloth dresses Persia, Arabia, the Spice Islands, and increasingly Europe."
+ nd_vjn_dravidian_naval_doctrine: "Dravidian Naval Doctrine"
+ nd_vjn_dravidian_naval_doctrine_desc: "Imperial squadrons on both the Malabar and Coromandel coasts establish a Karnata naval doctrine: shallow-draft frigates for monsoon waters, paired with European-style heavy ships purchased through Goa or built at Cochin and Pulicat shipyards."
+
+ # ============================================================
+ # Advances: Age 6
+ # ============================================================
+ nd_vjn_karnata_renaissance: "The Karnata Renaissance"
+ nd_vjn_karnata_renaissance_desc: "Modern Telugu under Gurazada Apparao, modern Kannada under Kuvempu's antecedents, modern Tamil under Subramania Bharati's forerunners, modern Malayalam under Ezhuthachan's heirs: the Dravidian languages enter the print era together, fused by the imperial court's continued patronage of all four."
+ nd_vjn_industrial_coromandel: "Industrial Coromandel"
+ nd_vjn_industrial_coromandel_desc: "Steam-powered cotton mills at Madras and Madurai, mechanized bronze-foundries at Salem, and tea estates in the Nilgiris bring the imperial economy into the industrial age while preserving the swarnakara and weaver guilds as skilled-labor partners."
+ nd_vjn_dravidian_cabinet: "The Dravidian Cabinet"
+ nd_vjn_dravidian_cabinet_desc: "Modern cabinet government conducts its business in Telugu, Tamil, Kannada, and Malayalam: the four-language imperial machinery that no European empire ever managed to displace."
+ nd_vjn_imperial_conscription: "Imperial Conscription"
+ nd_vjn_imperial_conscription_desc: "The amara-nayaka levies are reformed under uniform imperial command: standardized regiments, drilled in Frankish fashion, equipped from imperial arsenals, conscripted by lottery from the four-language districts. The Karnata army modernizes without losing its territorial roots."
+
+ # ============================================================
+ # Custom units
+ # ============================================================
+ a_nd_vjn_kuravar_archers: "Kuravar Archers"
+ a_nd_vjn_kuravar_archers_desc: "Hill-people skirmishers from the Western and Eastern Ghats. Light-armored, mobile, and at home in jungle and hill terrain, the Kuravar archers screen and harry far ahead of the imperial cavalry."
+ a_nd_vjn_arabian_warhorse: "Imperial Arabian Horse"
+ a_nd_vjn_arabian_warhorse_desc: "Heavy cavalry mounted on Arabian and Persian war horses imported through Goa. The Karnata empire's signature shock arm under the Tuluva and Aravidu dynasties: fast, disciplined, and a counterweight to Sultanate cavalry."
+ a_nd_vjn_imperial_war_elephant: "Gajadhwaja War Elephant"
+ a_nd_vjn_imperial_war_elephant_desc: "Permanent regiments of armored elephants under the imperial gajadhwaja banner. Mahouts trained from childhood; howdahs reinforced against firearms; the elephant-banner of the south."
+
+ # ============================================================
+ # Custom levies
+ # ============================================================
+ levy_nd_vjn_kuravar_archers: "Kuravar Archer Levy"
+ levy_nd_vjn_kuravar_archers_desc: "Levy of Kuravar and forest-caste archers from the southern hill country."
+
+ # ============================================================
+ # Custom buildings
+ # ============================================================
+ nd_vjn_dravidian_temple_complex: "Dravidian Temple Complex"
+ nd_vjn_dravidian_temple_complex_desc: "Imperial Saiva-Vaishnava temple complex with monumental gopurams, pillared mantapas, sculpted yali-columns, and a sacred tank. The Hampi style (Vittala, Hazara Rama, Virupaksha) exported across the empire."
+ nd_vjn_temple_maintenance: "Temple Endowment"
+ nd_vjn_temple_maintenance_desc: "Imperial endowment of the temple's daily ritual: pottery vessels, masonry repair, beeswax for lamps, and incense for the sanctum."
+
+ nd_vjn_amara_nayaka_estate: "Amara-Nayaka Estate"
+ nd_vjn_amara_nayaka_estate_desc: "Fortified manorial seat of an amara-nayaka: a military lord holding territory in exchange for cavalry, infantry, elephants, and forts. The backbone of Karnata military organization."
+ nd_vjn_nayaka_maintenance: "Nayaka Establishment"
+ nd_vjn_nayaka_maintenance_desc: "Maintenance of the amara-nayaka's troop quota: war horses, weaponry, livestock for retinue and rations, cloth for uniforms and tents."
+
+ nd_vjn_tungabhadra_anicut: "Tungabhadra Anicut"
+ nd_vjn_tungabhadra_anicut_desc: "Earthen tank fed by an anicut diversion-dam. The Hiriya canal model: monsoon flows captured into reservoirs, channels feeding paddy and orchard. The imperial agricultural foundation."
+ nd_vjn_anicut_maintenance: "Anicut Upkeep"
+ nd_vjn_anicut_maintenance_desc: "Stone facing of the diversion-dam, lumber sluice-gates, and seasonal masonry repair after monsoon flood."
+
+ nd_vjn_bhuvana_vijaya: "Bhuvana Vijaya"
+ nd_vjn_bhuvana_vijaya_desc: "The Hall of World-Conquest. Imperial pillared hall housing the court of poets (the Ashtadiggajas) and the literary academies in Telugu, Sanskrit, Kannada, and Tamil. The Karnata court of letters."
+ nd_vjn_court_maintenance: "Imperial Patronage"
+ nd_vjn_court_maintenance_desc: "Imperial endowment of the literary academy: paper for manuscripts, books for the imperial library, fine cloth for court robes, and incense for ceremonial assemblies."
+
+ nd_vjn_swarnakara_workshop: "Swarnakara Workshop"
+ nd_vjn_swarnakara_workshop_desc: "Goldsmith and bronze-caster guild workshop continuing the Chola lost-wax tradition. Processional icons, ritual lamps, jewelry, and sword-fittings flow from Karnata workshops across the Indian Ocean."
+ nd_vjn_bronze_casting: "Lost-Wax Bronze Casting"
+ nd_vjn_bronze_casting_desc: "Copper and tin alloyed by the lost-wax method into tools, fittings, and ritual ware. The Dravidian metallurgical signature."
+ nd_vjn_chola_bronzework_tradition: "Chola Bronzework Tradition"
+ nd_vjn_chola_bronzework_tradition_desc: "The Chola lost-wax tradition that produced the Nataraja and the Tirupati bronzes is preserved in the imperial swarnakara workshops. Processional icons, royal jewelry, and ritual lamps now flow from Karnata workshops to courts and temples across the Indian Ocean."
+ nd_vjn_pulicat_emporia: "Pulicat Emporia"
+ nd_vjn_pulicat_emporia_desc: "Madras, Pulicat, Masulipatnam, Sadras, Pondicherry: the Coromandel coast emporia handle the empire's spice and textile trade. Imperial factors negotiate with European trading companies on Karnata terms."
+ nd_vjn_imperial_cannon_doctrine: "Imperial Cannon Doctrine"
+ nd_vjn_imperial_cannon_doctrine_desc: "The swarnakara workshops are reorganized as imperial cannon-foundries, casting bronze and iron field-pieces for the Karnata army. The Dravidian metallurgical tradition turns its skill from temple bell to siege gun."
+ nd_vjn_modernized_garrisons: "Modernized Nayaka Garrisons"
+ nd_vjn_modernized_garrisons_desc: "Amara-nayaka troop quotas modernize: firearms in place of swords and bows, drilled musketry, standardized uniforms. The feudal-military estate becomes a modern garrison without losing its territorial character."
+ nd_vjn_pulicat_factory: "Pulicat Factory"
+ nd_vjn_pulicat_factory_desc: "Karnata coastal trade factory and warehouse complex. Storehouses, customs posts, factor's quarters, and quayside loading docks for the Coromandel cotton, indigo, and spice trade."
+ nd_vjn_pulicat_maintenance: "Factory Operations"
+ nd_vjn_pulicat_maintenance_desc: "Maintenance of the factory's warehouses, dye-vats, and accounting offices: cloth bales, pottery containers, fine-cloth samples for buyers, and incense for the factor's reception hall."
+ nd_vjn_chola_bronzework: "Chola Bronzework"
+ nd_vjn_chola_bronzework_desc: "Premium lost-wax bronze casting: processional icons, jewelry, and ceremonial ware. The output of the Karnata swarnakara guilds at their imperial peak."
+ nd_vjn_imperial_cannon_foundry: "Imperial Cannon Foundry"
+ nd_vjn_imperial_cannon_foundry_desc: "The Karnata swarnakara guilds turned to imperial cannon-casting: bronze and iron field-pieces for the army of the south."
+ nd_vjn_modernized_nayaka_garrison: "Modernized Nayaka Garrison"
+ nd_vjn_modernized_nayaka_garrison_desc: "Firearm-equipped, drilled garrison troops sustaining the amara-nayaka quota in the modern age."
